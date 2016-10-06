@@ -70,3 +70,7 @@ dt {
 ul {
   list-style-type: circle;
 }
+
+p {
+  font-weight: normal;
+}

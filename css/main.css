@@ -2,11 +2,14 @@ html {
   background-color: #c9b5ab;
   font-family: "PT Serif";
   line-height: 1.5;
+  font-weight: normal;
 }
 
 h1 {
   color: #3f1622;
   font-family: "PT Sans";
+  font-size: 1.5rem;
+  font-weight: bold;
 }
 
 h2 {
@@ -27,7 +30,7 @@ a:link {
 }
 
 a:hover {
-  color: #222;
+  color: #3f1622;
   text-decoration: none;
 }
 
@@ -69,8 +72,4 @@ dt {
 
 ul {
   list-style-type: circle;
-}
-
-p {
-  font-weight: normal;
 }
